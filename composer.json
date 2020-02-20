@@ -5,12 +5,12 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "KiweeEu\\Emarsys\\": "src/"
+            "Omneo\\Emarsys\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "KiweeEu\\Emarsys\\": "tests/"
+            "Omneo\\Emarsys\\": "tests/"
         }
     },
     "require": {
